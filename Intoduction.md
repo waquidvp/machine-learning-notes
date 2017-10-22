@@ -33,4 +33,11 @@ These methods are:
     * The classification is related to one or more feature.
 
 <a name="unsupervised-learning"></a>
+
 ### Unsupervised Learning
+
+In this, the inputed data is not labelled.
+
+Methods are used to label them:
+* Clustering - The data is grouped together to relevent groups
+    * Ex. - Grouping related news topics
