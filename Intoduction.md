@@ -24,18 +24,16 @@ There are two main types of machine learning classifications:
 <a name="supervised-learning"></a>
 
 ### Supervised Learning
-
 The correct answer is given to the algorithm, then methods can be used to predict for an unknown value.
 
 These methods are:
-* Regression - It creates a continuous valued output
+* [Regression](https://github.com/waquidvp/machine-learning-notes/blob/master/Regression.md#regression) - It creates a continuous valued output
 * Classification - Creates a discrete valued output, e.g. 0 or 1
     * The classification is related to one or more feature.
 
 <a name="unsupervised-learning"></a>
 
 ### Unsupervised Learning
-
 In this, the inputed data is not labelled.
 
 Methods are used to label them:
