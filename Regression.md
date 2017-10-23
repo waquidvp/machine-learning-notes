@@ -23,7 +23,7 @@ The algorithm is:
 
 ![Gradient Descent Linear Regression](https://jpgdatascience.files.wordpress.com/2016/04/multivariateeq3.png?w=1000)
 
-<a name="multi-vairate-regression"></a>
+<a name="multi-variate-regression"></a>
 
 # Multivariate Linear Regression
 The different x values are called the features.
