@@ -28,7 +28,7 @@ The correct answer is given to the algorithm, then methods can be used to predic
 
 These methods are:
 * [Regression](https://github.com/waquidvp/machine-learning-notes/blob/master/Regression.md#regression) - It creates a continuous valued output
-* Classification - Creates a discrete valued output, e.g. 0 or 1
+* [Classification](https://github.com/waquidvp/machine-learning-notes/blob/master/Classification.md#classification) - Creates a discrete valued output, e.g. 0 or 1
     * The classification is related to one or more feature.
 
 <a name="unsupervised-learning"></a>
