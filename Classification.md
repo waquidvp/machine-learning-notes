@@ -9,7 +9,9 @@ The output can also be multiclass.
 Methods of classification:
 * Logistic Regression - has nothing to do with linear regression
 
-##Logistic Regression
+<a name="logistic-regression"></a>
+
+## Logistic Regression
 When the output of the hypothesis is discrete and is 1 or 0, it is known as a binary classification problem.
 
 We want to create a hypothesis which satisfies 
@@ -61,3 +63,4 @@ The only deffernce is the definition of h(x).
 ### One vs rest
 
 Do logistic regression on each class seperatly treating the rest as negative classes.
+Then take the value that has the highest probability.
