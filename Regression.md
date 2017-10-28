@@ -5,8 +5,6 @@
 ## Model representation for regression
 Training Set -> Learning Algorithm -> h(hypothesis)
 
-![Example for housing prices from size of house](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/H6qTdZmYEeaagxL7xdFKxA_2f0f671110e8f7446bb2b5b2f75a8874_Screenshot-2016-10-23-20.14.58.png?expiry=1508803200000&hmac=y4SHasVstNvMCUAf5-lSkdCuUX1KRIDKaa2vP4ZFxBc)
-
 The hypothesis is a function which maps the x's to the y's.
 
 >h(x) = y
