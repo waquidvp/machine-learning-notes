@@ -28,9 +28,12 @@ The normal equation also changes to
 ## Regularized Logistic Regression
 The cost function will change by adding the following to the end
 >(lambda/2m)*(sum(O^2))
+*Note: don't regularize the first item in O*
 
 The final equation will be
 >J(O) = 1/m * sum(y * log(h(x)) + (1 - y) * log(1 - h(x))) + (lambda/2m) * (sum(O^2))
 
 This means the gradient function will also change and become
 > O = O - a * (1/m * sum((h(x) - y) * x + (lambda/m) * O)
+*Note: don't regularize the first item in O*
+*Note: the first elements gradient is not regularized, it is the default gradient from original equation*
