@@ -11,3 +11,4 @@ Notes taken when learning machine learning from the Andrew Ng Course.
         * [Logistic Regresssion](https://github.com/waquidvp/machine-learning-notes/blob/master/Classification.md#logistic-regression)
         * [Regularization](https://github.com/waquidvp/machine-learning-notes/blob/master/Regularization.md#regularization)
     * [Unsupervised Learning](https://github.com/waquidvp/machine-learning-notes/blob/master/Introduction.md#unsupervised-learning)
+        * [Neural Networks](https://github.com/waquidvp/machine-learning-notes/blob/master/NeuralNetworks.md#neural-networks)
