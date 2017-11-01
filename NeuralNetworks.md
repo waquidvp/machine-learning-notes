@@ -14,7 +14,6 @@ Signals are sent as electric pulses from dendrite to dendrite through the axon.
 At each neuron some sort of computation is done.
 
 ### Logistic unit model
-
 (x1, x2, x3, ...) -> neuron -> outputs the value of h(x) where
 >h(x) = 1/(1+e^-O'x)
 
@@ -31,3 +30,12 @@ The layers in between are called the hidden layer.
 
 The size of the O matrix is calculated by the 
 >(units in the next layer x (units in current layer + 1))
+
+The +1 is to take in count the bias unit, which = 1.
+
+### Multiclass Classification
+
+### One vs all
+When there are multiple classes, there will be the same amount of output nodes.
+Each output tells you how strongly it is that specific class.
+The outputs will be a vector of size - classes.
